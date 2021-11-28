@@ -1,0 +1,13 @@
+{
+  "domain": "alarmdotcomredux",
+  "name": "Alarm.com Redux",
+  "documentation": "https://www.github.com/darchambault/alarmdotcomredux",
+  "issue_tracker": "https://www.github.com/darchambault/alarmdotcomredux/issues",
+  "requirements": [
+    "pyalarmdotcomredux==0.2.0"
+  ],
+  "dependencies": [],
+  "version": "0.2.0",
+  "codeowners": ["@darchambault"],
+  "iot_class": "cloud_polling"
+}

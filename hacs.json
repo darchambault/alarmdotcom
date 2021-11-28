@@ -1,5 +1,5 @@
 {
-  "name": "Alarmdotcom",
+  "name": "Alarmdotcom Redux",
   "render_readme": true,
-  "homeassistant": "0.105.0"
+  "homeassistant": "2021.12.0"
 }
