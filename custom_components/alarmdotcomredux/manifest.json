@@ -5,7 +5,7 @@
   "config_flow": true,
   "documentation": "https://www.github.com/darchambault/alarmdotcomredux",
   "issue_tracker": "https://www.github.com/darchambault/alarmdotcomredux/issues",
-  "requirements": ["pyalarmdotcomredux==0.2.0"],
+  "requirements": ["pyalarmdotcomredux==0.2.1"],
   "dependencies": [],
   "codeowners": [
     "@darchambault"
